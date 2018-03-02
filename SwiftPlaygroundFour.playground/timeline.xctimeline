@@ -3,7 +3,17 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/aukeleching/Desktop/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=223&amp;EndingColumnNumber=8&amp;EndingLineNumber=18&amp;StartingColumnNumber=5&amp;StartingLineNumber=18&amp;Timestamp=541667542.3877831"
+         documentLocation = "file:///Users/aukeleching/Desktop/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=223&amp;EndingColumnNumber=8&amp;EndingLineNumber=18&amp;StartingColumnNumber=5&amp;StartingLineNumber=18&amp;Timestamp=541669237.212636"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/aukeleching/Desktop/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=616&amp;EndingColumnNumber=0&amp;EndingLineNumber=53&amp;StartingColumnNumber=0&amp;StartingLineNumber=53&amp;Timestamp=541669237.212805"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/aukeleching/Desktop/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=580&amp;EndingColumnNumber=11&amp;EndingLineNumber=50&amp;StartingColumnNumber=5&amp;StartingLineNumber=50&amp;Timestamp=541669237.212936"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

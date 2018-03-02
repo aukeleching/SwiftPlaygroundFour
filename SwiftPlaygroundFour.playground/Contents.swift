@@ -33,12 +33,10 @@ while i <= 10
 //coding challenge 1
 
 var u = 1
-
 while u <= 3
 {
 print (u)
-    u = u+1
-    
+    u = u + 1
 }
 
 //coding challenge 2
@@ -47,11 +45,10 @@ for number in 1...10
 {
     print(number)
 }
-
-var newSum = 10
+var newSum = 0
 for number in 1...10
 {
-    newSum -1(number)
+    newSum -= number
     print(newSum)
 }
 
